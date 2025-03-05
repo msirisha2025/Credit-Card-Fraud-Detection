@@ -1,0 +1,1 @@
+This project focuses on detecting fraudulent credit card transactions using machine learning techniques like Logistic Regression, Decision Tree, Random Forest with findings of  precision and recall being crucial metrics due to the severe class imbalance.The dataset is sourced from(https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
